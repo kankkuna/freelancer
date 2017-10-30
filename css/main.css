@@ -23,10 +23,6 @@ nav {
   margin-right: 5px;
 }
 
-ul .first {
-  background-color:
-}
-
 .one-nav{
   font-size: 30px;
   text-align: left;
@@ -44,12 +40,17 @@ ul .first {
 
 /*Inicia Header*/
 
+header {
+  display: inline-block;
+  width: 100%;
+}
+
 .senior {
   position:relative;
   text-align: center;
   padding-top: 190px;
   background-color: #18bc9c;
-
+  padding-bottom: 100px;
 
 }
 
