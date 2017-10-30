@@ -2,3 +2,40 @@
  * Estilos de tu proyecto
 
 #2c3e50  #18bc9c #212529 */
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Lato', sans-serif;
+}
+.image-portafolio img{
+  display: block;
+  width: 150px;
+}
+
+ul {
+list-style: none;
+color: black;
+display: inline;
+}
+
+nav {
+  background-color: #2c3e50;
+  border: none;
+  position: fixed;
+  font-weight: 700;
+  font-family: Montserrat,'Helvetica Neue',Helvetica,Arial,sans-serif;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+
+.letter {
+  color: white;
+}
+
+.senior {
+  position: relative;
+  display: inline-block;
+  top: 100px;
+}
