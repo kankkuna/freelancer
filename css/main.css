@@ -2,3 +2,27 @@
  * Estilos de tu proyecto
 
 #2c3e50  #18bc9c #212529 */
+
+nav {
+  position: fixed;
+  display: inline-block;
+}
+
+ nav ul{
+  text-decoration: none;
+  display: inline;
+  list-style: none;
+
+}
+
+header {
+ display: inline-block;
+
+}
+
+.image-portafolio img {
+  width: 400px;
+  float: left;
+  display: inline-block;
+  margin: 20px;
+}
